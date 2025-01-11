@@ -9,7 +9,7 @@ def sum():
             print(sum)
             break    
 
-def devide():
+def divide():
     num1 = int(input())
     num2 = int(input())
     while True:
@@ -29,4 +29,4 @@ choice = int(input("choice:"))
 if choice == 1:
     sum()
 elif choice == 2:
-    devide()    
+    divide()    
